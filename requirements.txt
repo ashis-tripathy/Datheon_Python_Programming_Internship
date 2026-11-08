@@ -1,2 +1,5 @@
-yfinance
-pytest
+# Runtime dependency: fetch stock market data
+yfinance>=0.2.54
+
+# Development dependency: run the test suites
+pytest>=7.0
