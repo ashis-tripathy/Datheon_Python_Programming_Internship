@@ -1,0 +1,6 @@
+timestamp,ticker,sector,shares,buy_price,current_price,invested,market_value,gain_loss_pct
+2026-11-08 14:33:26,AAPL,Information Technology,10,150.0,342.37,1500.0,3423.7,128.25
+2026-11-08 14:33:26,MSFT,Information Technology,5,300.0,530.61,1500.0,2653.05,76.87
+2026-11-08 14:33:26,XOM,Energy,8,100.0,165.87,800.0,1326.96,65.87
+2026-11-08 14:33:26,JPM,Financials,4,180.0,334.49,720.0,1337.96,85.83
+2026-11-08 14:33:26,TOTAL,,,,,4520.0,8741.67,93.4
